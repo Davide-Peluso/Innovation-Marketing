@@ -1,0 +1,13 @@
+# Inferred from imports in the archived analysis notebooks.
+notebook
+numpy
+pandas
+openpyxl
+scipy
+matplotlib
+plotly
+seaborn
+nltk
+scikit-learn
+xgboost
+torch
